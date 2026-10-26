@@ -2,7 +2,7 @@
 
 Estudiante de 3º de Ingeniería Informática en la UEMC. Veo un problema en el día a día y acabo haciéndole una app.
 
-Casi todo lo que hay aquí son apps para el móvil que he diseñado, programado y publicado yo. Las puedes probar desde el navegador.
+Casi todo lo que hay aquí son apps para el móvil que he diseñado, programado y publicado yo. Las puedes probar desde el navegador, pero están optimizadas sobre todo para el móvil.
 
 **Portafolio:** [davidsnhz.github.io](https://davidsnhz.github.io) · **Email:** [davidsnhzv@gmail.com](mailto:davidsnhzv@gmail.com)
 
